@@ -1,5 +1,5 @@
 { 
-  "Version": "1.0.5",
+  "Version": "1.0.6",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Katia32hh/Katia32hh/refs/heads/main/Teste",
   "Sms": "",
@@ -57,10 +57,11 @@
     {
       "Name": "Claro 1",
       "FLAG": "Claro",
-      "Payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: minhaclaro.claro.com.br[crlf] [crlf]GET /HTTP/1.1[lf]Host: d328il1i0y4zs.cloudfront.net[lf][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: m.claro.com.br[crlf][crlf]
+X / HTTP/1.1[crlf]Host: [host][crlf][crlf]GET / HTTP/1.1[crlf]Host: d328il1i0y4zs.cloudfront.net [crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "minhaclaro.claro.com.br",
+      "ProxyIP": "m.claro.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
 }
