@@ -1,0 +1,71 @@
+{ 
+  "Version": "2.0.0",
+  "ReleaseNotes": "",
+  "UrlUpdate": "https://raw.githubusercontent.com/Katia32hh/Katia32hh/refs/heads/main/Update.txt",
+  "Sms": "",
+  "EmailFeedback": "",
+  "UrlContato": "",
+  "UrlTermos": "",
+  "CheckUser": "true",
+  "UdpPort": "7100;7200;7300;7400;7500;7600;7700;7800;7900",
+  "Udp": [
+    {
+      "Porta": "7100"
+    },   
+    {
+      "Porta": "7200"
+    },   
+    {
+      "Porta": "7300"
+    },   
+    {
+      "Porta": "7400"
+    },   
+    {
+      "Porta": "7500"
+    },   
+    {
+      "Porta": "7600"
+    },   
+    {
+      "Porta": "7700"
+    },   
+    {
+      "Porta": "7800"
+    },   
+    {
+      "Porta": "7900"
+    },   
+  ],
+  "Servers": [
+    {
+      "Name": "Servidor BR",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "201.67.202.64",
+      "CheckUser": "",
+      "ServerPort": "100",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    }
+  ],
+  "Networks": [
+
+
+ 
+    {
+      "Name": "Claro 1",
+      "FLAG": "Claro",
+      "Payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: minhaclaro.claro.com.br[crlf] [crlf]GET /HTTP/1.1[lf]Host: d2xef1ppxyyiup.cloudfront.net[lf][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "minhaclaro.claro.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+}
+    
+          
+
+  ]
+}
