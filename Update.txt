@@ -1,5 +1,5 @@
 { 
-  "Version": "1.0.2",
+  "Version": "1.0.3",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Katia32hh/Katia32hh/refs/heads/main/Update.txt",
   "Sms": "",
