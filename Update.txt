@@ -1,7 +1,7 @@
 { 
-  "Version": "1.0.0",
+  "Version": "1.0.2",
   "ReleaseNotes": "",
-  "UrlUpdate": "https://paste.ee/r/LeNaauE1/0",
+  "UrlUpdate": "https://raw.githubusercontent.com/Katia32hh/Katia32hh/refs/heads/main/Update.txt",
   "Sms": "",
   "EmailFeedback": "",
   "UrlContato": "",
