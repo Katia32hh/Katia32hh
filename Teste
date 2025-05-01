@@ -1,5 +1,5 @@
 { 
-  "Version": "1.0.8",
+  "Version": "1.0.9",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Katia32hh/Katia32hh/refs/heads/main/Teste",
   "Sms": "",
@@ -69,24 +69,13 @@ X / HTTP/1.1[crlf]Host: [host][crlf][crlf]GET / HTTP/1.1[crlf]Host: d328il1i0y4z
    {
       "Name": "Vivo 1",
       "FLAG": "vivo",
-      "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: portal.vivo.com.br",
+      "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: tim.com.br",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "54.207.196.55",
       "ProxyPort": "80",
       "Info": "Proxy"
-},
-
-{
-      "Name": "TIM",
-            "FLAG": "tim.png",
-            "Payload": "GET-GET ws://auth-uat-us.surveymonkey.com HTTP/1.1\nHost: gustavo33.online \nUpgrade: ws\n\n",
-            "SNI": "auth-uat-us.surveymonkey.com",
-            "TlsIP": "104.18.7.22",
-            "ProxyIP": "",
-            "ProxyPort": "443",
-            "Info": "Tlsws"
-    }      
+}
     
           
 
