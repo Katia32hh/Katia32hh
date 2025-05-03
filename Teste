@@ -1,5 +1,5 @@
 { 
-  "Version": "3.0.13",
+  "Version": "3.0.14",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Katia32hh/Katia32hh/refs/heads/main/Teste",
   "Sms": "",
@@ -83,6 +83,19 @@ Connection: Upgrade[crlf][crlf]",
 
   ]
 },
+    {
+      "Name": "Vivo 2",
+      "FLAG": "vivo",
+      "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: portal.vivo.com.br",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "54.207.196.55",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+}
+    
+
+
 
 
     {
