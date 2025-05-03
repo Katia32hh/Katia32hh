@@ -1,5 +1,5 @@
 { 
-  "Version": "3.0.10",
+  "Version": "3.0.11",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Katia32hh/Katia32hh/refs/heads/main/Teste",
   "Sms": "",
@@ -69,14 +69,16 @@ X / HTTP/1.1[crlf]Host: [host][crlf][crlf]GET / HTTP/1.1[crlf]Host: d328il1i0y4z
    {
       "Name": "Vivo 1",
       "FLAG": "vivo",
-      "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: portal.vivo.com.br",
+      "Payload": "ACL / HTTP/1.1[crlf]
+Host: ec2-54-207-196-55.sa-east-1.compute.amazonaws.com[crlf]
+Upgrade: websocket[crlf]
+Connection: Upgrade[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "54.207.196.55",
       "ProxyPort": "80",
       "Info": "Proxy"
 }
-    
           
 
   ]
