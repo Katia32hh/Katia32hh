@@ -1,5 +1,5 @@
 { 
-  "Version": "2.0.5",
+  "Version": "2.0.6",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Katia32hh/Katia32hh/refs/heads/main/Teste",
   "Sms": "",
@@ -85,7 +85,7 @@ B / HTTP/1.1[crlf]Host: [host][crlf][crlf]GET / HTTP/1.1[crlf]Host: d2xqo6lvv37j
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "lab-smartcontent.clarobrasil.mobi",
-      "ProxyPort": "80",
+      "ProxyPort": "443",
       "Info": "Proxy"
 }
 
