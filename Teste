@@ -1,5 +1,5 @@
 { 
-  "Version": "2.0.1",
+  "Version": "2.0.2",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Katia32hh/Katia32hh/refs/heads/main/Teste",
   "Sms": "",
@@ -42,7 +42,7 @@
       "Name": "Servidor BR",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "54.207.196.55",
+      "ServerIP": "201.67.202.64",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -58,7 +58,7 @@
       "Name": "Claro 1",
       "FLAG": "Claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: m.claro.com.br[crlf][crlf]
-X / HTTP/1.1[crlf]Host: [host][crlf][crlf]GET / HTTP/1.1[crlf]Host: d328il1i0y4zs.cloudfront.net [crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+X / HTTP/1.1[crlf]Host: [host][crlf][crlf]GET / HTTP/1.1[crlf]Host: d2xqo6lvv37j5m.cloudfront.net [crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "m.claro.com.br",
