@@ -1,5 +1,5 @@
 { 
-  "Version": "2.0.10",
+  "Version": "2.0.11",
   "ReleaseNotes": "ilimitado!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/Katia32hh/Katia32hh/refs/heads/main/Teste",
   "Sms": "",
@@ -43,7 +43,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "201.67.202.64",
-      "CheckUser": "",
+      "CheckUser": "http://201.67.202.64:8060/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
