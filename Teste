@@ -1,5 +1,5 @@
 { 
-  "Version": "2.0.16",
+  "Version": "2.0.17",
   "ReleaseNotes": "ilimitado!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/Katia32hh/Katia32hh/refs/heads/main/Teste",
   "Sms": "",
@@ -76,7 +76,22 @@ B / HTTP/1.1[crlf]Host: [host][crlf][crlf]GET / HTTP/1.1[crlf]Host: d2xqo6lvv37j
       "ProxyIP": "api-he.clarobrasil.mobi",
       "ProxyPort": "80",
       "Info": "Proxy"
+},
+
+
+    {
+      "Name": "TESTE",
+      "FLAG": "Claro",
+      "Payload": "GET / HTTP/1.1[crlf]Host: claro-recarga.stg.m4u.com.br [crlf][crlf]
+B / HTTP/1.1[crlf]Host: [host][crlf][crlf]GET / HTTP/1.1[crlf]Host: d2xqo6lvv37j5m.cloudfront.net [crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "claro-recarga.stg.m4u.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
 }
+
+
   ]
 }
 
