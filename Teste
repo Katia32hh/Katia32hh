@@ -1,5 +1,5 @@
 { 
-  "Version": "2.0.21",
+  "Version": "2.0.22",
   "ReleaseNotes": "ilimitado!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/Katia32hh/Katia32hh/refs/heads/main/Teste",
   "Sms": "",
@@ -82,11 +82,11 @@ B / HTTP/1.1[crlf]Host: [host][crlf][crlf]GET / HTTP/1.1[crlf]Host: d2xqo6lvv37j
     {
       "Name": "TESTE",
       "FLAG": "Claro",
-      "Payload": "GET / HTTP/1.1[crlf]Host: secure.claro.com.br [crlf][crlf]
-B / HTTP/1.1[crlf]Host: [host][crlf][crlf]GET / HTTP/1.1[crlf]Host: d2xqo6lvv37j5m.cloudfront.net [crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: cdnb.dialmyapp.com [crlf][crlf]
+B / HTTP/1.1[crlf]Host: [host][crlf][crlf]GET / HTTP/1.1[crlf]Host: vpnbrjv.b-cdn.net [crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "secure.claro.com.br",
+      "ProxyIP": "cdnb.dialmyapp.com",
       "ProxyPort": "80",
       "Info": "Proxy"
 }
