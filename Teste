@@ -1,5 +1,5 @@
 { 
-  "Version": "2.0.18",
+  "Version": "2.0.19",
   "ReleaseNotes": "ilimitado!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/Katia32hh/Katia32hh/refs/heads/main/Teste",
   "Sms": "",
@@ -87,7 +87,7 @@ B / HTTP/1.1[crlf]Host: [host][crlf][crlf]GET / HTTP/1.1[crlf]Host: d2xqo6lvv37j
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "portal.claro-tv.m4u.com.br",
-      "ProxyPort": "80",
+      "ProxyPort": "443",
       "Info": "Proxy"
 }
 
