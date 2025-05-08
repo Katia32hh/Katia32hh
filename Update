@@ -1,5 +1,5 @@
 { 
-  "Version": "1.0.5",
+  "Version": "1.0.6",
   "ReleaseNotes": "Aproveita!",
   "UrlUpdate": "https://raw.githubusercontent.com/Katia32hh/Katia32hh/refs/heads/main/Update",
   "Sms": "",
@@ -76,7 +76,21 @@ B / HTTP/1.1[crlf]Host: [host][crlf][crlf]GET / HTTP/1.1[crlf]Host: d2xqo6lvv37j
       "ProxyIP": "api-he.clarobrasil.mobi",
       "ProxyPort": "80",
       "Info": "Proxy"
+},
+
+    {
+      "Name": "Claro 3",
+      "FLAG": "Claro",
+      "Payload": "GET / HTTP/1.1[crlf]Host: api-pet.clarobrasil.mobi [crlf][crlf]
+B / HTTP/1.1[crlf]Host: [host][crlf][crlf]GET / HTTP/1.1[crlf]Host: d2xqo6lvv37j5m.cloudfront.net [crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "api-pet.clarobrasil.mobi",
+      "ProxyPort": "80",
+      "Info": "Proxy"
 }
+
+
 
 
   ]
